@@ -1,0 +1,90 @@
+2026-01-05 16:55:38,145 - INFO - ============================================================
+2026-01-05 16:55:38,146 - INFO - НОРМАЛИЗАЦИЯ САЙТА: https://www.microsoft.com/ru-kz
+2026-01-05 16:55:38,147 - INFO - Домен: www.microsoft.com
+2026-01-05 16:55:38,147 - INFO - Проект: microsoft.com
+2026-01-05 16:55:38,148 - INFO - Директория: C:\Users\User\Desktop\web cloner\output\microsoft.com
+2026-01-05 16:55:38,148 - INFO - ============================================================
+2026-01-05 16:55:38,148 - INFO - Шаг 1: Загрузка HTML страницы...
+2026-01-05 16:55:39,620 - INFO - ✓ HTML загружен (137508 символов)
+2026-01-05 16:55:39,635 - INFO - Шаг 2: Создание структуры проекта...
+2026-01-05 16:55:39,640 - INFO - Создана структура проекта: output\microsoft.com
+2026-01-05 16:55:39,640 - INFO - Шаг 3: Инициализация загрузчика ресурсов...
+2026-01-05 16:55:39,641 - INFO - Шаг 4: Нормализация структуры...
+2026-01-05 16:55:39,762 - INFO - Начало нормализации структуры...
+2026-01-05 16:55:39,765 - INFO - Найдено внешних CSS файлов: 12
+2026-01-05 16:55:40,253 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-new/main-light.ACSHASH00f3de21feb098c1210537b8acff540a.min.css -> main-light.ACSHASH00f3de21feb098c1210537b8acff540a.min.css
+2026-01-05 16:55:40,378 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base.ACSHASHd28dd0c2d9415d418390bd06a1c67b03.min.css -> clientlib-base.ACSHASHd28dd0c2d9415d418390bd06a1c67b03.min.css
+2026-01-05 16:55:40,491 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-uhf.ACSHASHf9f2395c582fa601707b7a5dfae9f05f.min.css -> clientlib-uhf.ACSHASHf9f2395c582fa601707b7a5dfae9f05f.min.css
+2026-01-05 16:55:40,604 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASH99db8a371e5b97000cf74f4235f8ffce.min.css -> site.ACSHASH99db8a371e5b97000cf74f4235f8ffce.min.css
+2026-01-05 16:55:40,749 - INFO -   ✓ Скачан: https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/cyrillic/shell/_scrf/css/themes=default.device=uplevel_web_pc/63-57d110/c9-be0100/a6-e969ef/43-9f2e7c/82-8b5456/a0-5d3913/3d-28500e/ae-f1ac0c?ver=2.0&_cf=02242021_3231 -> ae-f1ac0c_ver=2.0&_cf=02242021_3231
+2026-01-05 16:55:40,866 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/highlightcarousel/v1/highlightcarousel/clientlibs/site.ACSHASH4e526db2d2fbf161e82df26d3cdaec53.min.css -> site.ACSHASH4e526db2d2fbf161e82df26d3cdaec53.min.css
+2026-01-05 16:55:40,992 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/highlight/v1/highlight/clientlibs/site.ACSHASH8d92dbbbfc83254b0bf9a17ae6eca90a.min.css -> site.ACSHASH8d92dbbbfc83254b0bf9a17ae6eca90a.min.css
+2026-01-05 16:55:41,168 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/dynamic-price/v1/dynamic-price/clientlibs/sites.ACSHASH79f8bfbd754c3c987d47ce78fd57e9f5.min.css -> sites.ACSHASH79f8bfbd754c3c987d47ce78fd57e9f5.min.css
+2026-01-05 16:55:41,290 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.ACSHASHb1fbaca9eb9d84ec1091d5085f72ae7f.min.css -> site.ACSHASHb1fbaca9eb9d84ec1091d5085f72ae7f.min.css
+2026-01-05 16:55:41,403 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.ACSHASH7e98ce1d1fb3c40effe0a57430c1371c.min.css -> site.ACSHASH7e98ce1d1fb3c40effe0a57430c1371c.min.css
+2026-01-05 16:55:41,518 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.ACSHASH5eb7940588edeff2b13a25b0bd1cb864.min.css -> site.ACSHASH5eb7940588edeff2b13a25b0bd1cb864.min.css
+2026-01-05 16:55:41,633 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/back-to-top-button/v1/back-to-top-button/clientlibs/sites.ACSHASHfc060ddd09f80435205e72fc0cfe9fa4.min.css -> sites.ACSHASHfc060ddd09f80435205e72fc0cfe9fa4.min.css
+2026-01-05 16:55:41,635 - INFO - Найдено inline CSS блоков: 7
+2026-01-05 16:55:41,636 - INFO - Создан файл: css/inline.css (7 блоков)
+2026-01-05 16:55:41,641 - INFO - Найдено внешних JS файлов: 38
+2026-01-05 16:55:41,793 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery.ACSHASH75d0cb3e9ff9fee40f5ce5fd93c17fb2.min.js -> clientlib-jquery.ACSHASH75d0cb3e9ff9fee40f5ce5fd93c17fb2.min.js
+2026-01-05 16:55:41,910 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-jquery-cookie.ACSHASH5c75a4fa9fb3503322f8a0c9dd51512d.min.js -> clientlib-jquery-cookie.ACSHASH5c75a4fa9fb3503322f8a0c9dd51512d.min.js
+2026-01-05 16:55:42,031 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-analytics/v1.ACSHASHbf7b336dbb370c984e1bf59b1a980d86.min.js -> v1.ACSHASHbf7b336dbb370c984e1bf59b1a980d86.min.js
+2026-01-05 16:55:42,157 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/exp-cookiecomp/v1.ACSHASHa238861e6209e4e02576ddf5d1749c8b.min.js -> v1.ACSHASHa238861e6209e4e02576ddf5d1749c8b.min.js
+2026-01-05 16:55:42,286 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/dynamicclientsidelibs/handlerscripts/v1.ACSHASH6734c5d7a732130b83c7d4a6ba54dcec.min.js -> v1.ACSHASH6734c5d7a732130b83c7d4a6ba54dcec.min.js
+2026-01-05 16:55:42,403 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/universalheader/v1/universalheader/clientlibs/site.ACSHASH4f2c7ee0869368e04bc6e8531828c4b3.min.js -> site.ACSHASH4f2c7ee0869368e04bc6e8531828c4b3.min.js
+2026-01-05 16:55:42,516 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/dynamic-price/v1/dynamic-price/clientlibs/sites.ACSHASHa26d031bf8c00f082570666bfff25659.min.js -> sites.ACSHASHa26d031bf8c00f082570666bfff25659.min.js
+2026-01-05 16:55:42,626 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/calltoaction/v1/calltoaction/clientlibs/site.ACSHASH6069c9c4123345cb32954882a5e52e8d.min.js -> site.ACSHASH6069c9c4123345cb32954882a5e52e8d.min.js
+2026-01-05 16:55:42,752 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/highlight/v1/highlight/clientlibs/site.ACSHASH7c85d20692857758ab7de8f4f3875cbd.min.js -> site.ACSHASH7c85d20692857758ab7de8f4f3875cbd.min.js
+2026-01-05 16:55:42,859 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/highlightcarousel/v1/highlightcarousel/clientlibs/site.ACSHASHb92c774881d0b9040cc941160c1d52e8.min.js -> site.ACSHASHb92c774881d0b9040cc941160c1d52e8.min.js
+2026-01-05 16:55:43,046 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base.ACSHASHd920065b887e60c6d4e48e3dda3b2583.min.js -> clientlib-base.ACSHASHd920065b887e60c6d4e48e3dda3b2583.min.js
+2026-01-05 16:55:43,157 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card/v1/content-card/clientlibs/site.ACSHASH65ebc911d315591324874e1b6818906c.min.js -> site.ACSHASH65ebc911d315591324874e1b6818906c.min.js
+2026-01-05 16:55:43,269 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card-item/v3/content-card-item/clientlibs/site.ACSHASHd41d8cd98f00b204e9800998ecf8427e.min.js -> site.ACSHASHd41d8cd98f00b204e9800998ecf8427e.min.js
+2026-01-05 16:55:43,400 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/content-card-item/v1/content-card-item/clientlibs/site.ACSHASHd41d8cd98f00b204e9800998ecf8427e.min.js -> site.ACSHASHd41d8cd98f00b204e9800998ecf8427e.min.js
+2026-01-05 16:55:43,535 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/content/back-to-top-button/v1/back-to-top-button/clientlibs/sites.ACSHASH148bbe2eead6c5832c56691afb23e496.min.js -> sites.ACSHASH148bbe2eead6c5832c56691afb23e496.min.js
+2026-01-05 16:55:43,695 - INFO -   ✓ Скачан: https://www.microsoft.com/onerfstatics/marketingsites-neu-prod/shell/_scrf/js/themes=default/54-af9f9f/fb-2be034/21-f9d187/b0-50721e/d8-97d509/40-0bd7f9/ea-f1669e/9d-c6ea39/62-a72447/3e-a4ee50/7c-0bd6a1/60-37309a/db-bc0148/dc-7e9864/6d-c07ea1/6f-dafe8c/f6-aa5278/e6-5f3533/6d-1e7ed0/b7-cadaa7/62-2741f0/ca-40b7b0/4e-ee3a55/3e-f5c39b/c3-6454d7/f9-7592d3/d0-e64f3e/92-10345d/79-499886/7e-cda2d3/e7-1fe854/57-c14418/38-b93a9e/de-884374/1f-100dea/33-abe4df/2b-8e0ae6?ver=2.0&_cf=02242021_3231&iife=1 -> 2b-8e0ae6_ver=2.0&_cf=02242021_3231&iife=1
+2026-01-05 16:55:43,936 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-mwf-new/main-light.ACSHASHf8a6ecd849f93a3e5d989c0cee0ceb80.min.js -> main-light.ACSHASHf8a6ecd849f93a3e5d989c0cee0ceb80.min.js
+2026-01-05 16:55:44,057 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/clientlib-httpclient.ACSHASH47f4ec1c9a7d7117c2507e495fe380b9.min.js -> clientlib-httpclient.ACSHASH47f4ec1c9a7d7117c2507e495fe380b9.min.js
+2026-01-05 16:55:44,172 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-cookieconsent.ACSHASHc892f451b0c4db9c8ab2601a427c9b2c.min.js -> clientlib-cookieconsent.ACSHASHc892f451b0c4db9c8ab2601a427c9b2c.min.js
+2026-01-05 16:55:44,295 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/embed-thirdparty.ACSHASH9d6d11b9c69e8cce8e9a556502a5a537.min.js -> embed-thirdparty.ACSHASH9d6d11b9c69e8cce8e9a556502a5a537.min.js
+2026-01-05 16:55:44,409 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js -> featurecontrol.ACSHASHf120033122e43a4cb0b53bb306afc5dc.min.js
+2026-01-05 16:55:44,781 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/components/structure/page/clientlibs/custom-oneds.ACSHASHaee7bc87577c440f2f4ea08cedc81a09.min.js -> custom-oneds.ACSHASHaee7bc87577c440f2f4ea08cedc81a09.min.js
+2026-01-05 16:55:44,912 - INFO -   ✓ Скачан: https://www.microsoft.com/echo/etc.clientlibs/microsoft/clientlibs/cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js -> cookie-compliance-manager.ACSHASHd471cafc5d23f4577f5cf2676dcc276a.min.js
+2026-01-05 16:55:44,989 - INFO - Найдено inline JS блоков: 11
+2026-01-05 16:55:44,990 - INFO - Создан файл: js/inline.js (11 блоков)
+2026-01-05 16:55:45,000 - INFO - Найдено изображений: 1
+2026-01-05 16:55:45,284 - INFO -   ✓ Скачан: https://www.microsoft.com -> image_1.jpg
+2026-01-05 16:55:45,693 - WARNING -   ✗ Ошибка скачивания https://www.microsoft.com/resources/fonts/MWFFluentIcons.ttf?v=2.15.3: 404 Client Error: Not Found for url: https://www.microsoft.com/resources/fonts/MWFFluentIcons.ttf?v=2.15.3
+2026-01-05 16:55:45,826 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/normal/latest.ttf -> font_2.ttf
+2026-01-05 16:55:45,955 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/light/latest.ttf -> font_3.ttf
+2026-01-05 16:55:46,089 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semilight/latest.ttf -> font_4.ttf
+2026-01-05 16:55:46,214 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semibold/latest.ttf -> font_5.ttf
+2026-01-05 16:55:46,339 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/bold/latest.ttf -> font_6.ttf
+2026-01-05 16:55:46,489 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/normal/latest.woff2 -> font_7.woff2
+2026-01-05 16:55:46,616 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/normal/latest.woff -> font_8.woff
+2026-01-05 16:55:46,732 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/light/latest.woff2 -> font_9.woff2
+2026-01-05 16:55:46,853 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/light/latest.woff -> font_10.woff
+2026-01-05 16:55:46,986 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semilight/latest.woff2 -> font_11.woff2
+2026-01-05 16:55:47,110 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semilight/latest.woff -> font_12.woff
+2026-01-05 16:55:47,243 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semibold/latest.woff2 -> font_13.woff2
+2026-01-05 16:55:47,362 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/semibold/latest.woff -> font_14.woff
+2026-01-05 16:55:47,503 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/bold/latest.woff2 -> font_15.woff2
+2026-01-05 16:55:47,626 - INFO -   ✓ Скачан: https://www.microsoft.com/etc.clientlibs/cascade.component.authoring/clientlibs/clientlib-base/resources/fonts/segoe-ui/west-european/bold/latest.woff -> font_16.woff
+2026-01-05 16:55:47,716 - INFO - Обработано шрифтов: 16
+2026-01-05 16:55:47,729 - INFO - Нормализация завершена!
+2026-01-05 16:55:47,730 - INFO - Шаг 5: Сохранение нормализованного HTML...
+2026-01-05 16:55:47,731 - INFO - ✓ HTML сохранен: output\microsoft.com\index.html
+2026-01-05 16:55:47,732 - INFO - ============================================================
+2026-01-05 16:55:47,732 - INFO - СТАТИСТИКА:
+2026-01-05 16:55:47,732 - INFO -   Скачано файлов: 51
+2026-01-05 16:55:47,733 - WARNING -   Ошибок загрузки: 1
+2026-01-05 16:55:47,733 - WARNING -     - https://www.microsoft.com/resources/fonts/MWFFluentIcons.ttf?v=2.15.3: 404 Client Error: Not Found for url: https://www.microsoft.com/resources/fonts/MWFFluentIcons.ttf?v=2.15.3
+2026-01-05 16:55:47,736 - INFO -   CSS файлов: 12
+2026-01-05 16:55:47,736 - INFO -   JS файлов: 22
+2026-01-05 16:55:47,737 - INFO -   Изображений: 1
+2026-01-05 16:55:47,737 - INFO -   Шрифтов: 15
+2026-01-05 16:55:47,738 - INFO - ============================================================
+2026-01-05 16:55:47,738 - INFO - ============================================================
+2026-01-05 16:55:47,738 - INFO - НОРМАЛИЗАЦИЯ ЗАВЕРШЕНА УСПЕШНО!
+2026-01-05 16:55:47,739 - INFO - Проект сохранен в: C:\Users\User\Desktop\web cloner\output\microsoft.com
+2026-01-05 16:55:47,740 - INFO - ============================================================

@@ -1,0 +1,62 @@
+2026-01-04 08:50:40,984 - INFO - Сервер запущен на http://127.0.0.1:5000
+2026-01-04 08:50:40,985 - INFO - Откройте браузер и перейдите по адресу http://127.0.0.1:5000
+2026-01-04 08:52:54,693 - INFO - Сервер запущен на http://127.0.0.1:5000
+2026-01-04 08:52:54,693 - INFO - Откройте браузер и перейдите по адресу http://127.0.0.1:5000
+2026-01-04 08:53:16,512 - INFO - ============================================================
+2026-01-04 08:53:16,512 - INFO - НАЧАЛО КЛОНИРОВАНИЯ: https://www.youtube.com/watch?v=6oGPS8DRisE
+2026-01-04 08:53:16,513 - INFO - Папка сохранения: C:\Users\User\Desktop\web cloner\cloned_sites\youtube.com
+2026-01-04 08:53:16,513 - INFO - ============================================================
+2026-01-04 08:53:16,514 - INFO - Инициализация клонирования: https://www.youtube.com/watch?v=6oGPS8DRisE
+2026-01-04 08:53:16,515 - INFO - Директория сохранения: C:\Users\User\Desktop\web cloner\cloned_sites\youtube.com
+2026-01-04 08:53:16,516 - INFO - Начало клонирования сайта: https://www.youtube.com/watch?v=6oGPS8DRisE
+2026-01-04 08:53:16,516 - INFO - Скачивание главной страницы...
+2026-01-04 08:53:17,436 - INFO - Главная страница сохранена: cloned_sites\youtube.com\index.html
+2026-01-04 08:53:17,582 - INFO -   ✓ Скачан: https://www.youtube.com/s/player/50cc0679/www-player.css -> s\player\50cc0679\www-player.css
+2026-01-04 08:53:17,695 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/cssbin/www-main-desktop-watch-page-skeleton.css -> s\desktop\aaaab8bf\cssbin\www-main-desktop-watch-page-skeleton.css
+2026-01-04 08:53:17,809 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/cssbin/www-main-desktop-player-skeleton.css -> s\desktop\aaaab8bf\cssbin\www-main-desktop-player-skeleton.css
+2026-01-04 08:53:17,918 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/cssbin/www-onepick.css -> s\desktop\aaaab8bf\cssbin\www-onepick.css
+2026-01-04 08:53:18,030 - WARNING -   ✗ Ошибка скачивания https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.7ixni6vprLU.L.W.O/am=AAAQABAgCQ/d=0/rs=AGKMywFF1Rn2AVcSeyCFx2-g6SO_rRi_Ow.html: 404 Client Error: Not Found for url: https://www.youtube.com/s/_/ytmainappweb/_/ss/k=ytmainappweb.kevlar_base.7ixni6vprLU.L.W.O/am=AAAQABAgCQ/d=0/rs=AGKMywFF1Rn2AVcSeyCFx2-g6SO_rRi_Ow.html
+2026-01-04 08:53:18,159 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/web-animations-next-lite.min.vflset/web-animations-next-lite.min.js -> s\desktop\aaaab8bf\jsbin\web-animations-next-lite.min.vflset\web-animations-next-lite.min.js
+2026-01-04 08:53:18,285 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/webcomponents-all-noPatch.vflset/webcomponents-all-noPatch.js -> s\desktop\aaaab8bf\jsbin\webcomponents-all-noPatch.vflset\webcomponents-all-noPatch.js
+2026-01-04 08:53:18,401 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/fetch-polyfill.vflset/fetch-polyfill.js -> s\desktop\aaaab8bf\jsbin\fetch-polyfill.vflset\fetch-polyfill.js
+2026-01-04 08:53:18,515 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/intersection-observer.min.vflset/intersection-observer.min.js -> s\desktop\aaaab8bf\jsbin\intersection-observer.min.vflset\intersection-observer.min.js
+2026-01-04 08:53:18,628 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/scheduler.vflset/scheduler.js -> s\desktop\aaaab8bf\jsbin\scheduler.vflset\scheduler.js
+2026-01-04 08:53:18,753 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/www-i18n-constants-kk_KZ.vflset/www-i18n-constants.js -> s\desktop\aaaab8bf\jsbin\www-i18n-constants-kk_KZ.vflset\www-i18n-constants.js
+2026-01-04 08:53:19,307 - INFO -   ✓ Скачан: https://www.youtube.com/s/player/50cc0679/player_ias.vflset/kk_KZ/base.js -> s\player\50cc0679\player_ias.vflset\kk_KZ\base.js
+2026-01-04 08:53:19,431 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/spf.vflset/spf.js -> s\desktop\aaaab8bf\jsbin\spf.vflset\spf.js
+2026-01-04 08:53:19,540 - INFO -   ✓ Скачан: https://www.youtube.com/s/desktop/aaaab8bf/jsbin/network.vflset/network.js -> s\desktop\aaaab8bf\jsbin\network.vflset\network.js
+2026-01-04 08:53:19,666 - WARNING -   ✗ Ошибка скачивания https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.ehXENRjiL-M.es5.O/am=AAAQAAAACA/d=1/rs=AGKMywG8eZnBLxYYGX1sQ8y9S8fStD3DTA/m=kevlar_base_module,kevlar_main_module.html: 404 Client Error: Not Found for url: https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.ehXENRjiL-M.es5.O/am=AAAQAAAACA/d=1/rs=AGKMywG8eZnBLxYYGX1sQ8y9S8fStD3DTA/m=kevlar_base_module,kevlar_main_module.html
+2026-01-04 08:53:19,734 - INFO - Клонирование завершено!
+2026-01-04 08:53:19,734 - INFO - Скачано файлов: 13
+2026-01-04 08:53:19,734 - WARNING - Не удалось скачать: 2 файлов
+2026-01-04 08:53:19,735 - INFO - Создание ZIP архива: cloned_sites\youtube.com.zip
+2026-01-04 08:53:20,918 - INFO - ZIP архив создан: cloned_sites\youtube.com.zip (1.23 MB)
+2026-01-04 08:53:20,918 - INFO - Отправка файла через Telegram: cloned_sites\youtube.com.zip
+2026-01-04 08:53:24,922 - INFO - Файл успешно отправлен через Telegram
+2026-01-04 08:53:24,923 - INFO - ============================================================
+2026-01-04 08:53:24,923 - INFO - КЛОНИРОВАНИЕ ЗАВЕРШЕНО: https://www.youtube.com/watch?v=6oGPS8DRisE
+2026-01-04 08:53:24,923 - INFO - Архив: C:\Users\User\Desktop\web cloner\cloned_sites\youtube.com.zip
+2026-01-04 08:53:24,923 - INFO - ============================================================
+2026-01-05 13:07:33,517 - INFO - Сервер запущен на http://127.0.0.1:5000
+2026-01-05 13:07:33,517 - INFO - Откройте браузер и перейдите по адресу http://127.0.0.1:5000
+2026-01-05 13:08:29,751 - INFO - Сервер запущен на http://127.0.0.1:5000
+2026-01-05 13:08:29,759 - INFO - Откройте браузер и перейдите по адресу http://127.0.0.1:5000
+2026-01-05 13:09:06,814 - INFO - ============================================================
+2026-01-05 13:09:06,815 - INFO - НАЧАЛО КЛОНИРОВАНИЯ: https://www.zoom.com/ru
+2026-01-05 13:09:06,817 - INFO - Папка сохранения: C:\Users\User\Desktop\web cloner\cloned_sites\zoom.com
+2026-01-05 13:09:06,818 - INFO - ============================================================
+2026-01-05 13:09:06,819 - INFO - Инициализация клонирования: https://www.zoom.com/ru
+2026-01-05 13:09:06,820 - INFO - Директория сохранения: C:\Users\User\Desktop\web cloner\cloned_sites\zoom.com
+2026-01-05 13:09:06,821 - INFO - Начало клонирования сайта: https://www.zoom.com/ru
+2026-01-05 13:09:06,822 - INFO - Скачивание главной страницы...
+2026-01-05 13:09:07,267 - INFO - Главная страница сохранена: cloned_sites\zoom.com\index.html
+2026-01-05 13:09:07,280 - INFO - Клонирование завершено!
+2026-01-05 13:09:07,280 - INFO - Скачано файлов: 0
+2026-01-05 13:09:07,281 - INFO - Создание ZIP архива: cloned_sites\zoom.com.zip
+2026-01-05 13:09:07,389 - INFO - ZIP архив создан: cloned_sites\zoom.com.zip (0.06 MB)
+2026-01-05 13:09:07,390 - INFO - Отправка файла через Telegram: cloned_sites\zoom.com.zip
+2026-01-05 13:09:08,019 - INFO - Файл успешно отправлен через Telegram
+2026-01-05 13:09:08,020 - INFO - ============================================================
+2026-01-05 13:09:08,020 - INFO - КЛОНИРОВАНИЕ ЗАВЕРШЕНО: https://www.zoom.com/ru
+2026-01-05 13:09:08,021 - INFO - Архив: C:\Users\User\Desktop\web cloner\cloned_sites\zoom.com.zip
+2026-01-05 13:09:08,022 - INFO - ============================================================
